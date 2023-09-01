@@ -130,8 +130,8 @@
                         
       <div class="widget follow-us">
         <h3 class="widget-title">
-          আমাদের অনুসরণ
-          </h3>
+          আমাদের অনুসরণ করুন
+        </h3>
         <div class="follow-container">
               <a href="#"><i class="icon-facebook5"></i></a>
               <a href="#"><i class="icon-twitter4"></i></a>
