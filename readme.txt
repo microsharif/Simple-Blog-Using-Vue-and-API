@@ -1,0 +1,1 @@
+Please consider the late submission. Due to Electricity problem I am unable to submit my assignment in time. Please consider.
